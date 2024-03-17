@@ -10,5 +10,9 @@
     src: url("../public/fonts/Cheesebase.otf");
   }
   *{
-    
+
+   background: #000;
+   color: beige;
+ 
+
   }
