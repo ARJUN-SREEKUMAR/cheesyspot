@@ -4,7 +4,11 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {
+  theme: { fontFamily: {
+    creamcheese: ["creamcheese", "sans-serif"],
+    Cheesebase: ["Cheesebase", "sans-serif"],
+
+  },
     extend: {},
   },
   plugins: [],

@@ -1,3 +1,11 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+@font-face {
+    font-family: "creamcheese";
+    src: url("../public/fonts/CreamCheese.otf");
+  }
+@font-face {
+    font-family: "Cheesebase";
+    src: url("../public/fonts/Cheesebase.otf");
+  }

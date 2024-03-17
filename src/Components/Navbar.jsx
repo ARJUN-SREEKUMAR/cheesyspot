@@ -10,7 +10,7 @@ const Navbar = () => {
             </div>
             <div className='  gap-10 hidden md:flex'>
                 <div style={{ color: location.pathname === '/' ? 'blue' : 'black' }}>
-                    <NavLink to="/">Home</NavLink>
+                    <NavLink to="/"  className="font-creamcheese text-2xl ">Home ĀāĂăĄą</NavLink>
                 </div>
                 <div style={{ color: location.pathname === '/about' ? 'blue' : 'black' }}>
                     <NavLink to="/about">About</NavLink>
