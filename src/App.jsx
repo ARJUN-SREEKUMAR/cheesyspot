@@ -16,6 +16,9 @@ function App() {
         <Navbar/>
       
           <div className=" relative top-[158px]">
+
+          <div className=" relative top-[150px]">
+
             <Routes>
               <Route path="/" element={<Home/>}/>
               <Route path="/about" element={<About/>}/>
