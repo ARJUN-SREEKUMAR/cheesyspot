@@ -9,7 +9,12 @@ export default {
     Cheesebase: ["Cheesebase", "sans-serif"],
 
   },
-    extend: {},
+    extend: {
+      colors: {
+        'nutral': '#FFFBF2', 
+        'primary': '#FFCF0C',
+      },
+    },
   },
   plugins: [],
 }

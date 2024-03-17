@@ -5,6 +5,7 @@ import Menu from "./Pages/Menu";
 import Contact from "./Pages/Contact";
 import Booknow from "./Pages/Booknow";
 import Navbar from "./Components/Navbar";
+import Load from "./Pages/Load";
 
 function App() {
 
@@ -13,13 +14,15 @@ function App() {
     <div className="">
         <BrowserRouter>
         <Navbar/>
-          <div className=" relative top-[110px]">
+      
+          <div className=" relative top-[158px]">
             <Routes>
               <Route path="/" element={<Home/>}/>
               <Route path="/about" element={<About/>}/>
               <Route path="/menu" element={<Menu/>}/>
               <Route path="/contact" element={<Contact/>}/>
               <Route path="/booknow" element={<Booknow/>}/>
+              <Route path="/load" element={<Load/>}></Route>
             </Routes>
           </div>
         </BrowserRouter>
