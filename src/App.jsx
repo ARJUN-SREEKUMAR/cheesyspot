@@ -14,8 +14,6 @@ function App() {
     <div className="">
         <BrowserRouter>
         <Navbar/>
-      
-          <div className=" relative top-[158px]">
 
           <div className=" relative top-[150px]">
 
