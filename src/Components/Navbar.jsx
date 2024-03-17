@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
 
     <div >
-        <img className='  z-30  bg-transparent relative md:-left-9 inline   w-[200px] md:visible invisible' src={paint} alt="" /> 
+        <img className='  z-30  bg-transparent relative md:-left-9 inline   w-[300px] md:visible invisible' src={paint} alt="" /> 
         <div className='  top-0 flex items-center md:justify-around  justify-center bg-black  shadow-2xl z-20 fixed h-[150px] w-full border border-b-1 border-t-0 border-black'>
      
          

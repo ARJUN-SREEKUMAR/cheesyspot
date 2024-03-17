@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className=' h-[2000px]'>
        <Slider/>
-       <About/>
+       
     </div>
   )
 }
