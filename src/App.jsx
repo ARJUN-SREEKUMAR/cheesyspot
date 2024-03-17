@@ -13,7 +13,7 @@ function App() {
     <div className="">
         <BrowserRouter>
         <Navbar/>
-          <div className=" relative top-[110px]">
+          <div className=" relative top-[150px]">
             <Routes>
               <Route path="/" element={<Home/>}/>
               <Route path="/about" element={<About/>}/>

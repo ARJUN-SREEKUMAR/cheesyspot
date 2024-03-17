@@ -6,7 +6,7 @@ const Navbar = () => {
     const location = useLocation()
   return (
     <div>
-        <div className='flex items-center md:justify-around  bg-[#000000] shadow-2xl z-20 fixed h-[100px] w-full'>
+        <div className=' flex items-center md:justify-around  bg-[#000000] shadow-2xl z-20 fixed h-[100px] w-full'>
             <div>
                 <img className=' h-36 mt-16' src={cheesylogo} alt="" /> 
             </div>
