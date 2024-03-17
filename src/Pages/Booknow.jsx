@@ -1,12 +1,12 @@
 import React from 'react'
 import Navbar from '../Components/Navbar'
 
-const Menu = () => {
+const Booknow = () => {
   return (
     <div>
-      
+       sdsdsdsdjkhjjhjghkgfgfkgjdgjfkdgjkfgjkfgjkfgjkdfgkgk
     </div>
   )
 }
 
-export default Menu
+export default Booknow
