@@ -9,10 +9,13 @@
     font-family: "Cheesebase";
     src: url("../public/fonts/Cheesebase.otf");
   }
+@font-face {
+    font-family: "mozereella";
+    src: url("../public/fonts/mozereella.otf");
+  }
   *{
 
    background: #000;
    color: beige;
- 
 
   }
