@@ -7,10 +7,12 @@ const Navbar = () => {
     const location = useLocation()
   return (
 
+
     <div className=' '>
         <img className='  z-30  bg-transparent relative md:-left-9   inline   w-[200px] invisible  ' src={paint} alt="" /> 
         <div className='  top-0 flex items-center md:justify-around  justify-center bg-transparent backdrop-blur-sm shadow-2xl z-20 fixed h-[70px] w-full '>
-     
+
+   
          
                 <img className=' h-36 mt-14  rounded-full bg-transparent z-40 ' src={cheesylogo} alt="" /> 
         

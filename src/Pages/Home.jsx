@@ -12,7 +12,6 @@ const Home = () => {
        {/* <div className='w-full h-[20px] '></div> */}
        <Slider/>
        <Slider/>
-    
     </div>
   )
 }
