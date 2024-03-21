@@ -5,12 +5,12 @@ const About = () => {
   return (
     <div>
         <div className='parent flex gap-10 flex-col lg:flex-row  items-center bg-transparent '>
-          <div className='bg-transparent left flex flex-row items-center w-[90%] md:w-[80%] xl:w-[55%] p-4 color bg-yellow-300 'style={{borderTopRightRadius: "200px"}}>
+          <div className='bg-transparent left flex flex-row items-center w-[90%] md:w-[80%] xl:w-[55%] p-4 color bg-yellow-300 relative xl:top-0 lg:-top-44 top-0'style={{borderTopRightRadius: "120px"}}>
               <div className='  bg-transparent'>
                 <img className='bg-transparent' src={transparent} alt="" />
               </div>
           </div>
-          <div className='p-5  bg-transparent right lg:w-[50%] md:w-[80%] w-[90%] flex flex-col items-center'>
+          <div className='p-5 sm:text-center  bg-transparent right lg:w-[50%] md:w-[80%] w-[90%] flex flex-col items-center'>
             <div className='font-Cheesebase text-4xl pb-5'>
               About Us
             </div>

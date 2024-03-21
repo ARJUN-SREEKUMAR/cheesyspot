@@ -5,10 +5,10 @@ import Footer from "../Components/Footer";
 const Contact = () => {
   return (
     <div>
-      <div className=" flex  flex-col items-center mb-20">
+      <div className=" flex  flex-col items-center mb-20 bg-transparent">
         Contact
-        <div className="parent  w-[80%] bg-[#161616] flex flex-col items-center">
-          <div style={{ color: '#ffffff' }} className=" pt-16 pb-16 font-Cheesebase">
+        <div className="parent  w-[80%] bg-[#161616] flex flex-col items-center bg-transparent">
+          <div style={{ color: '#ffffff' }} className=" pt-16 pb-16 font-Cheesebase bg-transparent">
             Get in Touch
             </div>
           <div className=" child  w-[90%]">
