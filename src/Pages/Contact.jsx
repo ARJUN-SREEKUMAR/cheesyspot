@@ -7,14 +7,14 @@ const Contact = () => {
     <div>
       <div className=" flex  flex-col items-center mb-20 bg-transparent">
         Contact
-        <div className="parent  w-[80%] bg-[#161616] flex flex-col items-center bg-transparent">
+        <div className="parent  w-[80%] bg-[#c15d5d] flex flex-col items-center bg-transparent">
           <div style={{ color: '#ffffff' }} className=" pt-16 pb-16 font-Cheesebase bg-transparent">
             Get in Touch
             </div>
           <div className=" child  w-[90%]">
             <div className="details flex flex-col gap-5 ">
               <div className=" flex  gap-6 md:flex-row flex-col">
-                <input className=" w-[100%] h-[74px] pl-4 " type="text" placeholder="First Name"/>
+                <input className="  w-[100%] h-[74px] pl-4 " type="text" placeholder="First Name"/>
                 <input className=" w-[100%] h-[74px] pl-4 " type="text" placeholder="Last Name"/>
               </div>
               <div className=" flex gap-6 md:flex-row flex-col">
