@@ -3,6 +3,7 @@ import transparent from "../assets/transparent.png";
 
 const About = () => {
   return (
+
     <div>
         <div className='parent flex gap-10 flex-col lg:flex-row  items-center bg-transparent '>
           <div className='bg-transparent left flex flex-row items-center w-[90%] md:w-[80%] xl:w-[55%] p-4 color bg-yellow-300 relative xl:top-0 lg:-top-44 top-0'style={{borderTopRightRadius: "120px"}}>
@@ -19,6 +20,7 @@ const About = () => {
             </div>
             <div className='font-Cheesebase'>
             Everything in here is made to resonate with your unique taste. The buns, soft and toasted to golden perfection, and the patties, born from the choicest cuts of meat, speak volumes about our dedication to your satisfaction. Our recipes are created to give you delicious joy with iconic flavours, premium ingredients, and art. Grapa Burger Lounge is your go-to spot for a family-friendly dining experience. To celebrate, cherish, and create memories. The atmosphere is warm, just like the smile we're ready to welcome you with. The service is attentive because you deserve nothing less. And the joy of sharing a meal with loved ones is palpable, as we've designed it all with you in mind.
+
             </div>
           </div>
         </div>
